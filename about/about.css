@@ -51,7 +51,7 @@ body {
     background: #dccaff;
     padding: 30px 40px;
     display: flex;
-    justify-content: flex-start;
+    justify-content: center;
     align-items: center;
     gap: 10px;
     border-bottom: 2px solid #090909;
@@ -167,7 +167,7 @@ body {
 }
 
 .subtitle1 {
-    font-size: 15px;
+    font-size: 25px;
     max-width: 520px;
     margin: 0 0 8px 0;
 }
@@ -224,7 +224,7 @@ body {
 }
 
 .subtitle2 {
-  font-size: 16px;
+  font-size: 25px;
   max-width: 520px;
   margin: 0 0 8px 0;
 }
@@ -277,7 +277,7 @@ body {
 }
 
 .subtitle3 {
-  font-size: 16px;
+  font-size: 25px;
   max-width: 520px;
   margin: 0 0 8px 0;
 }
@@ -334,7 +334,7 @@ body {
 }
 
 .subtitle4 {
-  font-size: 16px;
+  font-size: 25px;
   max-width: 520px;
   margin: 0 0 8px 0;
 }
@@ -377,7 +377,7 @@ body {
 }
 
 .subtitle5 {
-    font-size: 15px;
+    font-size: 25px;
     max-width: 520px;
     margin: 0 0 8px 0;
 }
