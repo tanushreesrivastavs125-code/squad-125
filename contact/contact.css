@@ -65,6 +65,10 @@ body {
     height: auto;
     border: 2px solid #000;
 }
+.hero-image:hover {
+    transform: scale(1.20);           /* Makes image 5% larger */
+    transition: 1s;                 /* Smooth transition in 0.3 seconds */
+}
 
 .team-section {
     padding: 80px 40px;
@@ -143,7 +147,7 @@ body {
 
 .card:hover {
     transform: translateY(-10px);
-    box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+    box-shadow: 0 10px 30px #d7c7ff;
 }
 
 .photo {
@@ -226,6 +230,7 @@ body {
 .footer-description p {
     font-size: 16px;
     line-height: 1.6;
+    margin-top: 11px;
 }
 
 .footer-nav {

@@ -76,6 +76,7 @@ body {
     gap: 30px;
     max-width: 1200px;
     margin: 0 auto;
+    /* justify-items: center; */
 }
 
 .mentor-card {
@@ -131,6 +132,7 @@ body {
     display: flex;
     gap: 10px;
     justify-content: center;
+    flex-direction: column;
 }
 
 .mentor-links a {
