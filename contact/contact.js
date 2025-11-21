@@ -50,5 +50,5 @@
 //     filterCards();
 //   });
 
-  sortCards("asc");
-});
+//   sortCards("asc");
+// });
